@@ -1,0 +1,535 @@
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.Shared.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\System.Web.Services.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\FlashControlV71.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\stdole.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\ShockwaveFlashObjects.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSAccount.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSBom.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSBomInput.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCost.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCostType.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCostTypeInput.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCustomer.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSDepartment.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSDepartmentInput.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSEmployee.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormInitStock.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInven.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInvenType.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInvenTypeInput.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSStore.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSSupplier.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormBaseType.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormCUAfterService.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormBaseTypeInput.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormCURelRecord.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormCUSellChance.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormCustomerAnalyse.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormCustomerCourse.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.FI.FormFIDeposit.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.FI.FormFIPurCost.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.FI.FormFISelCost.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormBrowsePRPlan.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormBrowsePRProduce.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRInStore.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormProduceComplete.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRPlan.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRProduce.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PU.FormBrowsePUInStore.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PU.FormBrowsePUOrder.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUInStore.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUOrder.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUPay.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.Login.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormPurCollectReport.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormPurReport.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelCollectReport.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitCollectReport.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitReport.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelReport.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormStockWarnReport.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SE.FormBrowseSEOrder.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SE.FormBrowseSEOutStore.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEGather.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEOrder.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEOutStore.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTCheck.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTGetBrowseProduce.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTGetMaterial.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTLoss.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormStockQuery.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTReturnBrowseProduce.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTReturnMaterial.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SY.FormAssignRight.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SY.FormPassWord.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SY.FormSYOperator.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.FormMain.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.Properties.Resources.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\ERP.exe.config
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\ERP.exe
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\ERP.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.exe
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.FormDataAnalyse.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\ERP.exe.config
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\ERP.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\ERP.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.Shared.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\System.Web.Services.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\FlashControlV71.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\stdole.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\bin\Debug\ShockwaveFlashObjects.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.FormMain.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSAccount.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSBom.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSBomInput.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCost.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCostType.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCostTypeInput.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCustomer.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSDepartment.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSDepartmentInput.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSEmployee.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormInitStock.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInven.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInvenType.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInvenTypeInput.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSSupplier.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormBaseType.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormCUAfterService.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormBaseTypeInput.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormCURelRecord.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormCUSellChance.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormCustomerAnalyse.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.CU.FormCustomerCourse.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.FI.FormFIDeposit.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.FI.FormFIPurCost.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.FI.FormFISelCost.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormBrowsePRPlan.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormBrowsePRProduce.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRInStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormProduceComplete.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRPlan.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRProduce.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PU.FormBrowsePUInStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PU.FormBrowsePUOrder.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUInStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUOrder.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUPay.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.Login.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.FormDataAnalyse.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormPurCollectReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormPurReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelCollectReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitCollectReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormStockWarnReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SE.FormBrowseSEOrder.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SE.FormBrowseSEOutStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEGather.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEOrder.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEOutStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTCheck.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTGetBrowseProduce.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTGetMaterial.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTLoss.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormStockQuery.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTReturnBrowseProduce.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTReturnMaterial.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SY.FormAssignRight.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SY.FormPassWord.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.SY.FormSYOperator.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 企业ERP管理系统\ERP\obj\Debug\ERP.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\ERP.exe.config
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\ERP.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\ERP.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.Shared.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\System.Web.Services.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\FlashControlV71.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\stdole.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\ShockwaveFlashObjects.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.FormMain.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSAccount.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSBom.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSBomInput.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCost.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCostType.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCostTypeInput.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCustomer.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSDepartment.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSDepartmentInput.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSEmployee.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormInitStock.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInven.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInvenType.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInvenTypeInput.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSSupplier.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormBaseType.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormCUAfterService.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormBaseTypeInput.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormCURelRecord.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormCUSellChance.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormCustomerAnalyse.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormCustomerCourse.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.FI.FormFIDeposit.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.FI.FormFIPurCost.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.FI.FormFISelCost.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormBrowsePRPlan.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormBrowsePRProduce.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRInStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormProduceComplete.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRPlan.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRProduce.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PU.FormBrowsePUInStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PU.FormBrowsePUOrder.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUInStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUOrder.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUPay.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.Login.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.FormDataAnalyse.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormPurCollectReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormPurReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelCollectReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitCollectReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormStockWarnReport.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SE.FormBrowseSEOrder.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SE.FormBrowseSEOutStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEGather.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEOrder.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEOutStore.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTCheck.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTGetBrowseProduce.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTGetMaterial.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTLoss.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormStockQuery.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTReturnBrowseProduce.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTReturnMaterial.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SY.FormAssignRight.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SY.FormPassWord.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SY.FormSYOperator.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\ERP.exe.config
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\ERP.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\ERP.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.Shared.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\System.Web.Services.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\FlashControlV71.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\stdole.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\bin\Debug\ShockwaveFlashObjects.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.FormMain.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSAccount.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSBom.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSBomInput.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCost.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCostType.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCostTypeInput.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSCustomer.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSDepartment.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSDepartmentInput.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSEmployee.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormInitStock.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInven.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInvenType.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSInvenTypeInput.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.BS.FormBSSupplier.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormBaseType.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormCUAfterService.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormBaseTypeInput.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormCURelRecord.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormCUSellChance.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormCustomerAnalyse.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.CU.FormCustomerCourse.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.FI.FormFIDeposit.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.FI.FormFIPurCost.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.FI.FormFISelCost.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormBrowsePRPlan.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormBrowsePRProduce.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRInStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormProduceComplete.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRPlan.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PR.FormPRProduce.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PU.FormBrowsePUInStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PU.FormBrowsePUOrder.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUInStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUOrder.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.PU.FormPUPay.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.Login.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.FormDataAnalyse.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormPurCollectReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormPurReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelCollectReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitCollectReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormSelReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.RP.FORM.FormStockWarnReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SE.FormBrowseSEOrder.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SE.FormBrowseSEOutStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEGather.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEOrder.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SE.FormSEOutStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTCheck.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTGetBrowseProduce.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTGetMaterial.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTLoss.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormStockQuery.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTReturnBrowseProduce.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.ST.FormSTReturnMaterial.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SY.FormAssignRight.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SY.FormPassWord.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.SY.FormSYOperator.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\ERP\obj\Debug\ERP.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\ERP.exe.config
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\ERP.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\ERP.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.Shared.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\System.Web.Services.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\FlashControlV71.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\stdole.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\bin\Debug\ShockwaveFlashObjects.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.FormMain.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSAccount.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSBom.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSBomInput.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSCost.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSCostType.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSCostTypeInput.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSCustomer.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSDepartment.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSDepartmentInput.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSEmployee.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormInitStock.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSInven.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSInvenType.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSInvenTypeInput.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.BS.FormBSSupplier.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.CU.FormBaseType.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.CU.FormCUAfterService.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.CU.FormBaseTypeInput.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.CU.FormCURelRecord.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.CU.FormCUSellChance.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.CU.FormCustomerAnalyse.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.CU.FormCustomerCourse.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.FI.FormFIDeposit.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.FI.FormFIPurCost.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.FI.FormFISelCost.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.PR.FormBrowsePRPlan.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.PR.FormBrowsePRProduce.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.PR.FormPRInStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.PR.FormProduceComplete.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.PR.FormPRPlan.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.PR.FormPRProduce.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.PU.FormBrowsePUInStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.PU.FormBrowsePUOrder.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.PU.FormPUInStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.PU.FormPUOrder.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.PU.FormPUPay.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.Login.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.FormDataAnalyse.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.RP.FORM.FormPurCollectReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.RP.FORM.FormPurReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.RP.FORM.FormSelCollectReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitCollectReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.RP.FORM.FormSelReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.RP.FORM.FormStockWarnReport.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.SE.FormBrowseSEOrder.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.SE.FormBrowseSEOutStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.SE.FormSEGather.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.SE.FormSEOrder.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.SE.FormSEOutStore.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.ST.FormSTCheck.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.ST.FormSTGetBrowseProduce.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.ST.FormSTGetMaterial.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.ST.FormSTLoss.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.ST.FormStockQuery.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.ST.FormSTReturnBrowseProduce.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.ST.FormSTReturnMaterial.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.SY.FormAssignRight.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.SY.FormPassWord.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.SY.FormSYOperator.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\06 明日ERP管理系统\Project\ERP\obj\Debug\ERP.pdb
+D:\C#\Code\06\Project\ERP\bin\Debug\ERP.exe.config
+D:\C#\Code\06\Project\ERP\bin\Debug\ERP.exe
+D:\C#\Code\06\Project\ERP\bin\Debug\ERP.pdb
+D:\C#\Code\06\Project\ERP\bin\Debug\System.Web.Services.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\FlashControlV71.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\stdole.dll
+D:\C#\Code\06\Project\ERP\bin\Debug\ShockwaveFlashObjects.dll
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.FormMain.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSAccount.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSBom.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSBomInput.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSCost.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSCostType.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSCostTypeInput.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSCustomer.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSDepartment.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSDepartmentInput.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSEmployee.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormInitStock.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSInven.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSInvenType.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSInvenTypeInput.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSStore.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.BS.FormBSSupplier.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.CU.FormBaseType.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.CU.FormCUAfterService.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.CU.FormBaseTypeInput.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.CU.FormCURelRecord.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.CU.FormCUSellChance.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.CU.FormCustomerAnalyse.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.CU.FormCustomerCourse.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.FI.FormFIDeposit.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.FI.FormFIPurCost.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.FI.FormFISelCost.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.PR.FormBrowsePRPlan.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.PR.FormBrowsePRProduce.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.PR.FormPRInStore.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.PR.FormProduceComplete.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.PR.FormPRPlan.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.PR.FormPRProduce.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.PU.FormBrowsePUInStore.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.PU.FormBrowsePUOrder.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.PU.FormPUInStore.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.PU.FormPUOrder.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.PU.FormPUPay.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.Login.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.Properties.Resources.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.FormDataAnalyse.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.RP.FORM.FormPurCollectReport.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.RP.FORM.FormPurReport.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.RP.FORM.FormSelCollectReport.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitCollectReport.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.RP.FORM.FormSelProfitReport.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.RP.FORM.FormSelReport.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.RP.FORM.FormStockWarnReport.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.SE.FormBrowseSEOrder.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.SE.FormBrowseSEOutStore.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.SE.FormSEGather.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.SE.FormSEOrder.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.SE.FormSEOutStore.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.ST.FormSTCheck.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.ST.FormSTGetBrowseProduce.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.ST.FormSTGetMaterial.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.ST.FormSTLoss.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.ST.FormStockQuery.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.ST.FormSTReturnBrowseProduce.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.ST.FormSTReturnMaterial.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.SY.FormAssignRight.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.SY.FormPassWord.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.SY.FormSYOperator.resources
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.exe
+D:\C#\Code\06\Project\ERP\obj\Debug\ERP.pdb
